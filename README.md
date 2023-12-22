@@ -4,7 +4,7 @@ Two generative art experiments for the 2023 BioLizard generative art competition
 
 ## 1. No, you're a flow cell
 
-Genome and RNA sequencing often rely on high-throughout sequencing "flow cells", which is essentially a chip filled with nucleotide probes at distinct spots. Sequencing happens one nucleotide at a time and when included in the growing sequence, each nucleotide emits a specific color that then is detected by a sensitive camera. This results in the typical colorful sequencing flow cell images full of colored dots. And now you can be a flow cell too! Simply open the index.html file in your browser and allow access to your webcam. The webcam feed is then transformed into a dynamic flow cell image. Of you! 📸 ✨
+Genome and RNA sequencing often rely on high-throughout sequencing "flow cells", which is essentially a chip filled with nucleotide probes at distinct spots. Sequencing happens one nucleotide at a time and when included in the growing sequence, each nucleotide emits a specific color that then is detected by a sensitive camera. This results in the typical colorful sequencing flow cell [images full of colored dots](https://en.m.wikipedia.org/wiki/File:Microarray_and_sequencing_flow_cell.svg). And now you can be a flow cell too! Simply open the index.html file in your browser and allow access to your webcam. The webcam feed is then transformed into a dynamic flow cell image. Of you! 📸 ✨
 
 ## 2. CompARTative genomics
 
